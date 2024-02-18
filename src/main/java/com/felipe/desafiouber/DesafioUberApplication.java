@@ -8,6 +8,7 @@ public class DesafioUberApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DesafioUberApplication.class, args);
+		System.out.println("*** Success Build ***");
 	}
 
 }
